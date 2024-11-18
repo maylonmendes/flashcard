@@ -1,7 +1,7 @@
 criaCartao(
     'quizz',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual a escala de trabalho do Neymar?',
+    '364x1 e em ano bisexto: 365x1'
 )
 
 criaCartao(
